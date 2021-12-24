@@ -1,0 +1,15 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+}
+body{
+    background-image: url("../public/abdukarimmirzayev_bg.jpg");
+}
+
+
+.mainHeader{
+    width: 100vw;
+    height: 100px;
+    align-items: center;
+    background-color: transparent;
+}

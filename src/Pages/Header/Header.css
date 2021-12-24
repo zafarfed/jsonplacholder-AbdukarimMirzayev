@@ -1,0 +1,10 @@
+.header .btns{
+    width: 150px;
+    padding: 8px;
+    font-family: Arial;
+    color: #ccb307;
+    font-weight: bold;
+}
+.header .btns:focus{
+    color: #454893;
+}

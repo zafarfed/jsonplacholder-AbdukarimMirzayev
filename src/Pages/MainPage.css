@@ -1,0 +1,40 @@
+.main{
+    width: 100vw;
+    height: 100vh;
+}
+
+.text{
+    margin-left: 70px;
+    font-weight: bolder;
+    font-size: 35px;
+    color: white;
+}
+.text span{
+    color: rgb(248, 249, 250);
+    font-size: 20px;
+}
+.text span button{
+    background-color: #ccb307;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.text span button:hover{
+    background-color: #2e3193;
+    transition: all .8s;
+    color: white;
+}
+.videoBox{
+    width: 100vw;
+    height: 100vh;
+    /*background-color: rgba(14, 10, 2, 0.91);*/
+    padding: 1rem;
+}
+.textCourse{
+    height: 230px;
+    background-color: #5271c7;
+    font-family: Arial;
+}
+.texts{
+    border: 5px solid #ccb307;
+}
